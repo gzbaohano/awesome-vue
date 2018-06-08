@@ -25,71 +25,71 @@
   - [开源](#开源)
   - [商业产品](#商业产品)
   - [应用/网站](#应用/网站)
-  - [Interactive Experiences](#interactive-experiences)
-  - [Enterprise Usage](#enterprise-usage)
+  - [互动体验](#互动体验)
+  - [企业使用](#企业使用)
   - [A11y](#a11y)
-- [Components & Libraries](#components--libraries)
-  - [UI Components](#ui-components)
-    - [Table](#table)
-    - [Notification](#notification)
+- [组件和库](#组件和库)
+  - [UI 组件](#UI 组件)
+    - [表格](#表格)
+    - [通知](#通知)
     - [Loader](#loader)
-    - [Progress Bar](#progress-bar)
-    - [Tooltip](#tooltip)
+    - [进度条](#进度条)
+    - [工具提示](#tooltip)
     - [Overlay](#overlay)
     - [Parallax](#parallax)
     - [Icons](#icons)
-    - [Menu](#menu)
-    - [Carousel](#carousel)
-    - [Charts](#charts)
-    - [Time](#time)
-    - [Calendar](#calendar)
-    - [Map](#map)
-    - [Audio / Video](#audio--video)
-    - [Infinite Scroll](#infinite-scroll)
-    - [Pull-to-refresh](#pull-to-refresh)
+    - [菜单](#菜单)
+    - [轮播](#轮播)
+    - [图表](#图表)
+    - [时间](#时间)
+    - [日历](#日历)
+    - [地图](#地图)
+    - [音频 / 视频](#音频 / 视频)
+    - [滚动加载](#滚动加载)
+    - [下拉刷新](#下拉刷新)
     - [Markdown](#markdown)
     - [PDF](#pdf)
     - [Tree](#tree)
     - [Social Sharing](#social-sharing)
     - [QR Code](#qr-code)
-    - [Search](#search)
+    - [搜索](#搜索)
     - [Miscellaneous](#miscellaneous)
     - [Tabs](#tabs)
-    - [Form](#form)
-      - [Picker](#picker)
-        - [Date Picker](#date-picker)
+    - [表单](#表单)
+      - [选择器](#选择器)
+        - [日期选择器](#日期选择器)
       - [Select](#select)
       - [Slider](#slider)
-      - [Drag and Drop](#drag-and-drop)
-      - [Autocomplete](#autocomplete)
-      - [Type Select](#type-select)
-      - [Color Picker](#color-picker)
-      - [Switch](#switch)
+      - [拖放](#拖放)
+      - [自动完成](#自动完成)
+      - [类型选择](#类型选择)
+      - [颜色选择器](#颜色选择器)
+      - [开关](#开关)
       - [Masked Input](#masked-input)
-      - [Rich Text Editing](#rich-text-editing)
-      - [Image Manipulation](#image-manipulation)
-      - [File Upload](#file-upload)
-      - [Context Menu](#context-menu)
+      - [富文本编辑器](#富文本编辑器)
+      - [图像处理](#图像处理)
+      - [文件上传](#文件上传)
+      - [上下文菜单](#上下文菜单)
       - [Miscellaneous](#miscellaneous-1)
       - [CSV](#csv)
-      - [Comment System](#comment-system)
+      - [评论系统](#评论系统)
     - [Canvas](#canvas)
-    - [Link Preview](#link-preview)
+    - [链接预览](#链接预览)
     - [Tour](#tour)
-  - [UI Layout](#ui-layout)
-  - [Frameworks](#frameworks)
-    - [Responsive](#responsive)
-    - [Mobile](#mobile)
-    - [Component Collections](#component-collections)
-    - [Admin Template](#admin-template)
-    - [Server-side rendering](#server-side-rendering)
-    - [Static website generator](#static-website-generator)
-    - [Other](#other)
-  - [UI Utilities](#ui-utilities)
-    - [Event Handling](#event-handling)
-    - [Responsive Design](#responsive-design)
+  - [UI 布局](#UI 布局)
+  - [框架](#框架)
+    - [响应式](#响应式)
+    - [手机端](#手机端)
+    - [组件集合](#组件集合)
+    - [管理模板](#管理模板)
+    - [服务端渲染?](#服务端渲染?)
+    - [静态网站生成器](#静态网站生成器)
+    - [其他](#其他)
+  - [UI实用程序](#UI实用程序)
+    - [事件处理](#事件处理)
+    - [响应式设计](#响应式设计)
     - [Form](#form-1)
-      - [Validation](#validation)
+      - [验证](#验证)
     - [Scroll](#scroll)
     - [Routing](#routing)
     - [Lazy Load](#lazy-load)
@@ -208,13 +208,13 @@
 - [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsid)
 - [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
 
-### Conferences
+### 会议
 
 - [VueConf](http://conf.vuejs.org)
 - [Vue.js London](http://vuejs.london)
 - [VueConf US](http://vueconf.us)
 
-### Podcasts
+### 播客
 
 - [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
 - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
@@ -232,26 +232,26 @@
 - [Views on Vue (weekly podcast on Vue started 03-06-2018)](https://devchat.tv/views-on-vue)
 - [The Official Vue.js News Podcast](https://news.vuejs.org/)
 
-### Youtube Channels
+### Youtube 频道
  - [VueNYC](https://www.youtube.com/vuenyc)
  - [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)
 
-### Official Examples
+### 官方示例
 
-- [Basic Examples](http://vuejs.org/guide/)
+- [基本实例](http://vuejs.org/guide/)
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
-  - [CoffeeScript Version](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
+  - [CoffeeScript 版本](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [**Vue.js HackerNews Clone**](https://github.com/vuejs/vue-hackernews)
 - [**Vue.js 2.0 HackerNews Clone**](https://github.com/vuejs/vue-hackernews-2.0)
 
-### Tutorials
+### 教程
 
-- [Vue.js screencasts](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
-- [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
-- [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
-- [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
-- [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
-- [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
+- [Vue.js 屏幕录像](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
+- [Vue.js1.0的新特性是什么](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
+- [Vuejs 2 认证教程](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
+- [使用Vue.js创建GitHub文件资源管理器](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
+- [Vue.js 教程](http://vegibit.com/vue-js-tutorial/) on Vegibit
+- [vue.js使用webpack、vue-loader和热重载从0开始构建](http://skyronic.com/2015/12/28/vue-project-scratch/)
 - [Vuex basics: Tutorial and explanation](http://skyronic.com/2016/01/03/vuex-basics-tutorial/)
 - [Vuex introduction video - James Browne from London Vue.js Meetup #1](https://www.youtube.com/watch?v=l1KHL-TX3qs)
 - [Vue.js 中文系列视频教程](https://laravist.com/series/vue-js-1-0-in-action-series) on Laravist
@@ -371,7 +371,7 @@
 - [Build a design feedback app using Vue.js](https://pusher.com/tutorials/design-feedback-vuejs)
 - [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
 
-### Examples
+### 示例
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
   - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
   - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
