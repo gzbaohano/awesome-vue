@@ -9,22 +9,22 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Job Portal](#job-portal)
-    - [Community](#community)
-    - [Conferences](#conferences)
-    - [Podcasts](#podcasts)
-    - [Youtube Channels](#youtube-channels)
-    - [Official Examples](#official-examples)
-    - [Tutorials](#tutorials)
-    - [Examples](#examples)
-    - [Books](#books)
-- [Projects Using Vue.js](#projects-using-vuejs)
-  - [Open Source](#open-source)
-  - [Commercial Products](#commercial-products)
-  - [Apps/Websites](#appswebsites)
+- [资源](#资源)
+    - [官方资源](#官方资源)
+    - [外部资源](#外部资源)
+    - [工作入口](#工作入口)
+    - [社区](#社区)
+    - [会议](#会议)
+    - [播客](#播客)
+    - [YouTube频道](#YouTube频道)
+    - [官方示例](#官方示例)
+    - [教程](#教程)
+    - [示例](#示例)
+    - [书籍](#书籍)
+- [使用Vue.js的项目](#使用Vue.js的项目)
+  - [开源](#开源)
+  - [商业产品](#商业产品)
+  - [应用/网站](#应用/网站)
   - [Interactive Experiences](#interactive-experiences)
   - [Enterprise Usage](#enterprise-usage)
   - [A11y](#a11y)
@@ -159,43 +159,43 @@
 
 
 
-# Resources
+# 资源
 
 
-### Official Resources
+### 官方资源
 
-- [Official Guide](http://vuejs.org/guide/)
-- [API Reference](http://vuejs.org/api/)
-- [GitHub Repo](https://github.com/vuejs/vue)
-- [Release Notes](https://github.com/vuejs/vue/releases)
-- [Style Guide](https://vuejs.org/v2/style-guide/)
-- [Vue.js News](https://news.vuejs.org/)
+- [官方指南](http://vuejs.org/guide/)
+- [API参考](http://vuejs.org/api/)
+- [GitHub仓库](https://github.com/vuejs/vue)
+- [发行说明](https://github.com/vuejs/vue/releases)
+- [风格指南](https://vuejs.org/v2/style-guide/)
+- [Vue.js 新闻](https://news.vuejs.org/)
 
-### External Resources
+### 外部资源
 
-- [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
+- [Vue.js資料まとめ(日语)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 - [Vue.js Newsletter](http://vue-newsletter.com/) - Weekly dose of handpicked Vue.js news
 - [Vue.js Tips](http://vuetips.com) - Tips to become a better Vue.js developer
-- [Vue.js Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
+- [Vue.js 维基百科](https://en.wikipedia.org/wiki/Vue.js)
 - [Vue.js Radar](https://www.vuejsradar.com) - Curated newsletter + site covering new Vue.js releases/contributions.
-- [Vue News](https://vuenews.io) - Social website focusing on the latest Vue.js news and information.
-- [Vue Curated Resources](https://hackr.io/tutorials/learn-vue-js) - Recommended Vue.js courses and tutorials.
-- [BuiltForVue](https://builtforvue.com) - NPM Mirror of all Vue.js components and packages.
+- [Vue 新闻](https://vuenews.io) - 专注于最新Vue.js新闻和信息的社交网站
+- [Vue 资源](https://hackr.io/tutorials/learn-vue-js) - 推荐的Vue.js课程和教程
+- [BuiltForVue](https://builtforvue.com) - Vue.js组件和软件包的NPM镜像
 
 
-### Job Portal
+### 工作入口
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 
-### Community
+### 社区
 
 - [Twitter](https://twitter.com/vuejs)
-- [Official Forum](http://forum.vuejs.org/)
-- [vue-requests](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
-- [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
+- [官方论坛](http://forum.vuejs.org/)
+- [vue-请求](https://github.com/vuejs/vue-requests) - 请求一个您希望存在的，或者获得模块的想法
+- [VueJS 伊朗 - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
 - [vueslack - 2300+ registered users worldwide](https://vueslack.slack.com/)
-- [Vue Land - Discord chat server](https://vue-land.js.org/)
-- [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
+- [Vue Land - Discord交流服务](https://vue-land.js.org/)
+- [VueJS 俄罗斯 - Telegram Group [Russian]](https://t.me/vuejs_ru)
 - [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 - [VueJS Spanish - Slack Group](https://slack.vue-es.org/)
 - [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
