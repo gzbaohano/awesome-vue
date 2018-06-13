@@ -901,15 +901,15 @@
 
 #### 进度条
 
-*A slim progress bar at the top of the page*
+*页面顶部的一个纤细的进度条*
 
- - [vue-progressbar](https://github.com/hilongjw/vue-progressbar) - A lightweight progress bar for vue.
- - [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
- - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js.
- - [vue-nprogress](https://github.com/vue-bulma/nprogress) - Progress bars is based on nprogress for Vue.
- - [vue-progress-button](https://github.com/websmurf/vue-progress-button) - Vue.js 2.x animated button component.
- - [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress) - A simple, flexible progress bar for Vue.js
- - [vue-component-loading](https://github.com/val-bubbleflat/vue-component-loading) - Manage a loading state inside each component and display the global loading state with a progressbar.
+ - [vue-progressbar](https://github.com/hilongjw/vue-progressbar) - VUE的轻量级进度条.
+ - [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar) - Vue 2最简单的Youtube Like加载栏组件.
+ - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) -  Vue.js的另一个顶级进度加载条组件.
+ - [vue-nprogress](https://github.com/vue-bulma/nprogress) - 进度条基于Vue的nprogress.
+ - [vue-progress-button](https://github.com/websmurf/vue-progress-button) -  Vue.js 2.x动画按钮组件.
+ - [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress) -Vue.js简单灵活的进度条
+ - [vue-component-loading](https://github.com/val-bubbleflat/vue-component-loading) -  管理每个组件内的加载状态，并用进度条显示全局加载状态.
 
 ### 提示
 
